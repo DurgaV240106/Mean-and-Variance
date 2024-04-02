@@ -1,7 +1,7 @@
 ## NAME : DURGA V
 ## REG. NO.: 212223230052
 
-##  EX-1  Mean and variance of a discrete  distribution
+##  EX-1 : Mean and variance of a discrete  distribution
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
